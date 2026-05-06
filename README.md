@@ -17,7 +17,7 @@
 ## ✨ Preview
 
 <p align="center">
-  <img src="Screenshot (107).png" width="300">
+  <img src="file:///C:/Users/MY/Pictures/Screenshots/Screenshot%20(107).png" width="300">
 </p>
 
 ---
